@@ -1,9 +1,10 @@
 <template>
   <div id="app">
   <p>祝java0821 全体同学前程似锦</p>
-  <p>祝java0821 全体同学财情双手</p>
+  <p>祝java0821 全体同学财情双收</p>
   <p>祝java0821 全体同学事业圆满</p>
-   <img src="http://img12.360buyimg.com/n1/s450x450_jfs/t1/142295/6/19866/63874/5fe4408eE401889c8/8f5c2b37676a2264.jpg"/>
+   <img src="https://sh0821-qb.oss-cn-shanghai.aliyuncs.com/avatar/2020/12/24/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210303115233.jpg
+"/>
   </div>
 </template>
 
